@@ -2,19 +2,19 @@
 title: "Sarah Beasley"
 image: "smile side edited.jpg"
 links:
-  - label: Resume
-    url: "Current_CV.pdf"
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sarah-beasley-3608101aa/"
   - label: Email
     url: "mailto:sarahmbeasley02@gmail.com"
+  - label: Resume
+    url: "Current_CV.pdf"  
 output:
   postcards::solana
 ---
  
 ## Bio
 
-I am a 2nd year PharmD student at MCPHS University who is currently obtaining their Minor in Biostatistics. My research interests involve R&D for new and promising drugs with a focus on overall development and quality control, integrating my knowledge of R studio and New England compounding and pharmacy laws and regulations. 
+I am a 2nd year PharmD student at MCPHS University who is currently obtaining my Minor in Biostatistics. My research interests involve R&D for new and promising drugs with a focus on overall development and quality control, integrating my knowledge of RStudio and New England compounding and pharmacy laws and regulations. 
 
 ## Education
 
