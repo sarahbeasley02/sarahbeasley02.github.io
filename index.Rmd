@@ -38,6 +38,6 @@ Minor in Biostatistics |4.00 GPA | August 2021 - May 2022
 
 1. [**The Best Coffee-Producing Company in The World is…**](Project1.html) | February 2022
 
-2. [**Wrangling Jeep Wranglers... Except They're Dodge Caravans**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
+2. [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
 
 
