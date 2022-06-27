@@ -40,4 +40,4 @@ Minor in Biostatistics |4.00 GPA | August 2021 - May 2022
 
 2. [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
 
-
+3. [**The Effect of Clean Energy Access on Death Rates Across the Globe (2000-2019)**](Project4.html) | May 2022 
