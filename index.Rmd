@@ -11,7 +11,7 @@ links:
 output:
   postcards::solana
 ---
- 
+
 ## Bio
 
 I am a 3rd year, PY1 PharmD student at MCPHS University who has recently obtained my Minor in Biostatistics from Simmons University. My research interests involve R&D for new and promising drugs with a focus on overall development and quality control, integrating my knowledge of RStudio and New England compounding laws/regulations towards a better future for healthcare. I am currently looking for internships that allow me to expand my knowledge of pharmacy through practice in different sub-fields to develop my critical thinking and leadership skills.
@@ -32,12 +32,12 @@ Minor in Biostatistics | 4.00 GPA | August 2021 - May 2022
 
 **MCPHS University** | Peer Tutor | August 2021 - Present
 
-**MCPHS University** | Research Assistant | April 2021 - Present 
+**MCPHS University** | Research Assistant | April 2021 - Present
 
-## Data Science Portfolio 
+## Data Science Portfolio
 
-1. [**The Best Coffee-Producing Company in The World is…**](Project1.html) | February 2022
+1.  [**The Best Coffee-Producing Company in The World is...**](Project1.html) | February 2022
 
-2. [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
+2.  [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
 
-3. [**The Effect of Clean Energy Access on Death Rates Across the Globe (2000-2019)**](Project4.html) | May 2022
+3.  [**The Effect of Clean Energy Access on Death Rates Across the Globe (2000-2019)**](Project4.html) | May 2022
