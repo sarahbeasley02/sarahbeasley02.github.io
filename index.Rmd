@@ -1,6 +1,6 @@
 ---
 title: "Sarah Beasley"
-image: "smile side edited.jpg"
+image: "edited.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sarah-beasley-3608101aa/"
