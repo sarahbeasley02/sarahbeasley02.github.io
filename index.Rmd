@@ -7,7 +7,7 @@ links:
   - label: Email
     url: "mailto:sarahmbeasley02@gmail.com"
   - label: Resume
-    url: "SURF_CV.pdf"  
+    url: "Current_CV3.pdf"  
 output:
   postcards::solana
 ---
@@ -20,17 +20,17 @@ I am a 3rd year, PY1 PharmD student at MCPHS University who has recently obtaine
 
 **MCPHS University** | Boston, MA
 
-Doctor of Pharmacy | 3.97 GPA | August 2020 - May 2026
+Doctor of Pharmacy | 3.95 GPA | Expected May 2026
 
 **Simmons University** | Boston, MA
 
-Minor in Biostatistics | 4.00 GPA | August 2021 - May 2022
+Minor in Biostatistics | 4.00 GPA | Obtained May 2022
 
 ## Experience
 
 **Boston Medical Center (BMC)** | Pharmacy Student Intern | August 2022 - Present
 
-**MCPHS University** | Peer Assistant Leader (PAL) | August 2021 - Present
+**MCPHS University** | Peer Assistant Leader (PAL) | August 2021 - January 2023
 
 **MCPHS University** | Research Assistant | June 2021 - June 2022
 
