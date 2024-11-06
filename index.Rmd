@@ -1,46 +1,43 @@
 ---
 title: "Sarah Beasley"
-image: "edited.jpg"
+image: "smile side edited.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/sarah-beasley-3608101aa/"
   - label: Email
     url: "mailto:sarahmbeasley02@gmail.com"
   - label: Resume
-    url: "Current_CV3.pdf"  
+    url: "Current_CV.pdf"  
 output:
   postcards::solana
 ---
-
+ 
 ## Bio
 
-I am a 3rd year, PY1 PharmD student at MCPHS University who has recently obtained my Minor in Biostatistics from Simmons University. My research interests involve R&D for new and promising drugs with a focus on overall development and quality control, integrating my knowledge of RStudio and New England compounding laws/regulations towards a better future for healthcare. I am currently looking for opportunities that allow me to expand my knowledge of pharmacy through practice in different sub-fields to develop my critical thinking and leadership skills.
+I am a 2nd year PharmD student at MCPHS University who is currently obtaining my Minor in Biostatistics. My research interests involve R&D for new and promising drugs with a focus on overall development and quality control, integrating my knowledge of RStudio and New England compounding and pharmacy laws and regulations. 
 
 ## Education
 
 **MCPHS University** | Boston, MA
 
-Doctor of Pharmacy | 3.95 GPA | Expected May 2026
+Doctor of Pharmacy | 3.97 GPA | August 2020 - April 2026
 
 **Simmons University** | Boston, MA
 
-Minor in Biostatistics | 4.00 GPA | Obtained May 2022
+Minor in Biostatistics |4.00 GPA | August 2021 - May 2022
 
 ## Experience
 
-**Boston Medical Center (BMC)** | Pharmacy Student Intern | August 2022 - Present
+**MCPHS University** | Peer Assistant Leader (PAL) | August 2021 - Present
 
-**MCPHS University** | Peer Assistant Leader (PAL) | August 2021 - January 2023
+**MCPHS University** | Peer Tutor | August 2021 - Present
 
-**MCPHS University** | Research Assistant | June 2021 - June 2022
+**MCPHS University** | Research Assistant | April 2021 - Present 
 
-**MCPHS University** | Peer Tutor | August 2021 - May 2022
+## Data Science Portfolio 
 
-## Data Science Portfolio
+1. [**The Best Coffee-Producing Company in The World is…**](Project1.html) | February 2022
 
-1.  [**The Best Coffee-Producing Company in The World is...**](Project1.html) | February 2022
+2. [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
 
-2.  [**Teach Me How to Wrangle**](https://sarahbeasley02.shinyapps.io/Project-2-Learnr/) | March 2022
-
-3.  [**The Effect of Clean Energy Access on Death Rates Across the Globe (2000-2019)**](Project4.html) | May 2022
 
